@@ -19,6 +19,3 @@ install: all
 
 uninstall:
 	rm -f ${DESTDIR}${PREFIX}/bin/musicdl
-
-test: all
-	./musicdl
