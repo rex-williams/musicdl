@@ -1,1 +1,1 @@
-# Music downloading program in c
+# Music downloading program written in c
